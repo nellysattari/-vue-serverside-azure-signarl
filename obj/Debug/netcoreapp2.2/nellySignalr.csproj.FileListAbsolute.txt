@@ -1,0 +1,14 @@
+D:\dev\nellySignalr\bin\Debug\netcoreapp2.2\nellySignalr.deps.json
+D:\dev\nellySignalr\bin\Debug\netcoreapp2.2\nellySignalr.runtimeconfig.json
+D:\dev\nellySignalr\bin\Debug\netcoreapp2.2\nellySignalr.runtimeconfig.dev.json
+D:\dev\nellySignalr\bin\Debug\netcoreapp2.2\nellySignalr.dll
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.csprojAssemblyReference.cache
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.csproj.CoreCompileInputs.cache
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.RazorAssemblyInfo.cache
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.RazorAssemblyInfo.cs
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.AssemblyInfoInputs.cache
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.AssemblyInfo.cs
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.RazorTargetAssemblyInfo.cache
+D:\dev\nellySignalr\bin\Debug\netcoreapp2.2\nellySignalr.pdb
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.dll
+D:\dev\nellySignalr\obj\Debug\netcoreapp2.2\nellySignalr.pdb
